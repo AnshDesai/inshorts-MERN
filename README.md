@@ -1,1 +1,1 @@
-# inshorts-MERN
+# inshorts clone application
